@@ -1,5 +1,5 @@
 # Skin-Disease-Detection-Team-Technophile
-We are team technophiles and participated in 48hrs hackathon organized by Nirma University in collabration with Binghamton University. Our Problem Definition : To develop a solution, the first step is to understand the problem. The problem here is to develop an Application Programming Interface which can be easily integrated with Android and IOS to detect the skin disease without any physical interaction with a Dermatologist. The detected skin disease should be sent through whatsapp to a particular patient and doctor.
+We are team technophiles and participated in 48hrs hackathon organized by Nirma University in collabration with Binghamton University. Our Problem Definition : To develop a solution, the first step is to understand the problem. The problem here is to develop an Application Programming Interface which can be easily integrated with Android and IOS to detect the skin disease without any physical interaction with a Dermatologist. The detected skin disease should be sent through whatsapp to a particular patient and doctor. We won second price in HealthCare Track with the price money of 5000 rupees.
 
 Our college name: Pandit Deendayal Energy University
 Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar, and Shubham Vyas.
