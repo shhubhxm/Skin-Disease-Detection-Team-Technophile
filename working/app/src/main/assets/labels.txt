@@ -1,0 +1,4 @@
+healthy
+lupus
+ringworm
+scalp_infections
